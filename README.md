@@ -48,13 +48,12 @@ Use of this application is at your own risk. LIHTC.ai is not liable for any outc
 ### 📩 Contact
 
 To partner, provide feedback, or request a demo:  
-**📧** melvin.e.cowan@gmail.com  
+**📧** hello@LIHTC.ai  
 **🌐** https://LIHTC.ai
 
 ---
 
 ### Trademark Disclaimer
 
-**LIHTC.ai™** is a trademark of Melvin Cowan.  
-Unauthorized use of the LIHTC.ai name, logo, or branding elements is strictly prohibited.  
-All third-party names, logos, and trademarks referenced in this project are the property of their respective owners and do not imply endorsement.
+LIHTC.ai™ is a trademark of Enough Housing LLC. Unauthorized use of the LIHTC.ai name, logo, or branding elements is strictly prohibited. LIHTC.ai is not affiliated with, endorsed by, or sponsored by any state or federal government agency. All trademarks, service marks, trade names, and logos used are the property of their respective owners and do not imply endorsement. 
+
